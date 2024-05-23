@@ -1,4 +1,4 @@
-package mino;
+package Src.Mino;
 
 import java.awt.*;
 

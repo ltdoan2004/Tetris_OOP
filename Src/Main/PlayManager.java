@@ -1,6 +1,14 @@
 package Src.Main;
 
-import Mino.*;
+import Src.Mino.Mino;
+import Src.Mino.Block;
+import Src.Mino.Mino_I;
+import Src.Mino.Mino_T;
+import Src.Mino.Mino_L1;
+import Src.Mino.Mino_L2;
+import Src.Mino.Mino_Square;
+import Src.Mino.Mino_Z1;
+import Src.Mino.Mino_Z2;
 
 import java.awt.*;
 import java.util.ArrayList;
