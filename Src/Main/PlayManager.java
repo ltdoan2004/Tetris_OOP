@@ -107,55 +107,55 @@ public class PlayManager {
         }
     }
 
-    private void checkDelete() {
-        int x = left_x;
-        int y = top_y;
-        int blockCount = 0;
-        int lineCount = 0;
-
-        while (x < right_x && y < bottom_y) {
-            for (int i = 0; i < staticBlocks.size(); i++) {
-                if (staticBlocks.get(i).x == x && staticBlocks.get(i).y == y) {
-                    //Increase the count if there is a static block
-                    blockCount++;
-                }
-            }
-            x += Block.SIZE;
-            if (x == right_x) {
-                //Delete line
-                if (blockCount == 12){
-                    effectCounterOn = true;
-                    effectY.add(y);
-                    for (int i = staticBlocks.size()-1; i > -1; i--) {
-                        if (staticBlocks.get(i).y == y) {
-                            staticBlocks.remove(i);
-                        }
-                    }
-
-                    lineCount++;
-                    lines++;
-                    //Drop Speed
-                    if (lines % 10 == 0 && dropInterval > 1) {
-                        level++;
-                        if (dropInterval > 10) {
-                            dropInterval -= 10;
-                        } else {
-                            dropInterval -= 1;
-                        }
-                    }
-
-                    //Slide down the above line
-                    for (int i = 0; i < staticBlocks.size(); i++) {
-                        if (staticBlocks.get(i).y < y) {
-                            staticBlocks.get(i).y += Block.SIZE;
-                        }
-                    }
-                }
-                blockCount = 0;
-                x = left_x;
-                y += Block.SIZE;
-            }
-        }
+//    private void checkDelete() {
+//        int x = left_x;
+//        int y = top_y;
+//        int blockCount = 0;
+//        int lineCount = 0;
+//
+//        while (x < right_x && y < bottom_y) {
+//            for (int i = 0; i < staticBlocks.size(); i++) {
+//                if (staticBlocks.get(i).x == x && staticBlocks.get(i).y == y) {
+//                    //Increase the count if there is a static block
+//                    blockCount++;
+//                }
+//            }
+//            x += Block.SIZE;
+//            if (x == right_x) {
+//                //Delete line
+//                if (blockCount == 12){
+//                    effectCounterOn = true;
+//                    effectY.add(y);
+//                    for (int i = staticBlocks.size()-1; i > -1; i--) {
+//                        if (staticBlocks.get(i).y == y) {
+//                            staticBlocks.remove(i);
+//                        }
+//                    }
+//
+//                    lineCount++;
+//                    lines++;
+//                    //Drop Speed
+//                    if (lines % 10 == 0 && dropInterval > 1) {
+//                        level++;
+//                        if (dropInterval > 10) {
+//                            dropInterval -= 10;
+//                        } else {
+//                            dropInterval -= 1;
+//                        }
+//                    }
+//
+//                    //Slide down the above line
+//                    for (int i = 0; i < staticBlocks.size(); i++) {
+//                        if (staticBlocks.get(i).y < y) {
+//                            staticBlocks.get(i).y += Block.SIZE;
+//                        }
+//                    }
+//                }
+//                blockCount = 0;
+//                x = left_x;
+//                y += Block.SIZE;
+//            }
+//        }
         //Add score
         if (lineCount == 1) {
             GamePanel.se.play(1, false);
