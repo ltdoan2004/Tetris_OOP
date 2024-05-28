@@ -13,10 +13,10 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
 public class Start extends JFrame {
-//    private GameController gameController = GameController.getINSTANCE();
-//    private GamePanel gamePanel = GamePanel.getINSTANCE();
-//    private RightPanel rightPanel = RightPanel.getINSTANCE();
-//    private LeftPanel leftPanel = LeftPanel.getINSTANCE();
+    private GameController gameController = GameController.getINSTANCE();
+    private GamePanel gamePanel = GamePanel.getINSTANCE();
+    private RightPanel rightPanel = RightPanel.getINSTANCE();
+    private LeftPanel leftPanel = LeftPanel.getINSTANCE();
 
 
     public Start() {
