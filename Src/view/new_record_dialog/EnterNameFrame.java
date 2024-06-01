@@ -1,11 +1,11 @@
-package Src.view.new_record_dialog.new_record_dialog;
+package Src.view.new_record_dialog;
 
 
 import Src.controller.GameController;
 import Src.controller.PaintController;
 import Src.model.Player;
-import com.vadimksn.game.tetris.view.BaseColors;
-import com.vadimksn.game.tetris.view.GamePanel;
+import Src.view.BaseColors;
+import Src.view.GamePanel;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,6 +1,6 @@
-package com.vadimksn.game.tetris.view;
+package Src.view;
 
-import com.vadimksn.game.tetris.controller.GameController;
+import Src.controller.GameController;
 
 import javax.swing.*;
 import java.awt.*;
