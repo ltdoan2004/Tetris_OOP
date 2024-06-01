@@ -1,4 +1,4 @@
-package com.vadimksn.game.tetris.view.new_record_dialog;
+package Src.view.new_record_dialog;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;

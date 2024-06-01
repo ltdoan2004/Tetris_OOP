@@ -1,13 +1,13 @@
-package com.vadimksn.game.tetris.controller;
+package Src.controller;
 
-import com.vadimksn.game.tetris.model.Player;
-import com.vadimksn.game.tetris.model.Tile;
-import com.vadimksn.game.tetris.model.TileColor;
-import com.vadimksn.game.tetris.view.BaseColors;
-import com.vadimksn.game.tetris.view.BaseFonts;
-import com.vadimksn.game.tetris.view.GamePanel;
-import com.vadimksn.game.tetris.view.LeftPanel;
-import com.vadimksn.game.tetris.view.new_record_dialog.EnterNameFrame;
+import Src.model.Player;
+import Src.model.Tile;
+import Src.model.TileColor;
+import Src.view.BaseColors;
+import Src.view.BaseFonts;
+import Src.view.GamePanel;
+import Src.view.LeftPanel;
+import Src.view.new_record_dialog.EnterNameFrame;
 import javafx.application.Platform;
 
 import javax.swing.*;

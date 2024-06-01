@@ -1,11 +1,11 @@
-package com.vadimksn.game.tetris;
+package Src;
 
-import com.vadimksn.game.tetris.controller.Direction;
-import com.vadimksn.game.tetris.controller.GameController;
-import com.vadimksn.game.tetris.controller.PaintController;
-import com.vadimksn.game.tetris.view.GamePanel;
-import com.vadimksn.game.tetris.view.LeftPanel;
-import com.vadimksn.game.tetris.view.RightPanel;
+import Src.controller.Direction;
+import Src.controller.GameController;
+import Src.controller.PaintController;
+import Src.view.GamePanel;
+import Src.view.LeftPanel;
+import Src.view.RightPanel;
 
 import javax.swing.*;
 import java.awt.*;

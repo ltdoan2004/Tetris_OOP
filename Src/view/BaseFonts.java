@@ -1,4 +1,4 @@
-package com.vadimksn.game.tetris.view;
+package Src.view;
 
 import java.awt.*;
 

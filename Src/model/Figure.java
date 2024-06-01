@@ -1,6 +1,6 @@
-package com.vadimksn.game.tetris.model;
+package Src.model;
 
-import com.vadimksn.game.tetris.controller.GameController;
+import Src.controller.GameController;
 
 import java.util.Random;
 

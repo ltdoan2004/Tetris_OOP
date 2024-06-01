@@ -1,4 +1,4 @@
-package com.vadimksn.game.tetris.model;
+package Src.model;
 
 import java.awt.*;
 
