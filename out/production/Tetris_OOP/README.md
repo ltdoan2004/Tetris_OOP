@@ -2,5 +2,6 @@
 
 Members: 
 Lê Thiên Doanh : ITCSIU22237 
-Nguyễn hoàng Bảo Khang
-Trần Ngọc Tân
+Nguyễn hoàng Bảo Khang : ITCSIU22234
+Trần Ngọc Tân : ITCSIU22131
+Hoàng Dương Gia Bảo : ITCSIU22017
