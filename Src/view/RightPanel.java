@@ -70,8 +70,8 @@ public class RightPanel extends JPanel {
         g.setFont(FONT_FOR_ARROWS);
         g.drawString(" ↓ ", largeOffsetByX, offsetByY += TILE_SIZE);
         g.setFont(SMALL_FONT);
-        g.drawString(" Drop", largeOffsetByX * 2, offsetByY);
-        g.drawString(" SPACE - Cast Drop", largeOffsetByX, offsetByY += TILE_SIZE);
+        g.drawString(" Down", largeOffsetByX * 2, offsetByY);
+        g.drawString(" SPACE - Drop", largeOffsetByX, offsetByY += TILE_SIZE);
         g.drawString(" P - Pause", largeOffsetByX, offsetByY += TILE_SIZE);
         g.drawString(" R - Restart", largeOffsetByX, offsetByY += TILE_SIZE);
 
