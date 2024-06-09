@@ -16,7 +16,8 @@ The Tetris Game is a new version of the classic video game, recreating the class
 2. [UML Class Diagram](#uml)
 3. [Demo](#demo)
 4. [PowerPoint and Report](#report)
-5. [Installation](#installation)
+5. [How To Install ?](#installation)
+6. [References](#references)
 
 ## Introduction <a name="introduction"></a> :
 ### Members:
@@ -65,4 +66,6 @@ Language:
 ### Report
 
 ## Installation <a name="installation"></a> 
+
+## References <a name="references"></a>
 
