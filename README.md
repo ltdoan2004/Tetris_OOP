@@ -1,4 +1,4 @@
-# Tetris_OOP
+# Tetris OOP
 
 ## Describes
 The Tetris Game is a new version of the classic video game, recreating the classic experience with modern graphics and additional features. In Tetris, the goal is to arrange various geometric blocks to form a complete row, making that row disappear and earning points.
