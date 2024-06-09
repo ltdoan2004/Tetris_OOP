@@ -60,7 +60,6 @@ Language:
 * Use the ⬆️ to rotate 90° clockwise
 * Use the ⬇️ to drop faster
 * Use Space to drop down 
-* Use C to hold the Piece
 * Use P to pause game
 * Use R to restart game
 
