@@ -17,7 +17,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 |:------|:-----------------------|:-----------:|:--------------------------------:|:---------------------------|
 | 1     | Lê Thiên Doanh | ITCSIU22237 | doanh25032004@gmail.com | ltdoan2004 |
 | 2     | Nguyễn Hoàng Bảo Khang | ITCSIU22234 | khangnguyenhoangbao@gmail.com | baokhang65 |
-| 3     | Trần Ngọc Tân  | ITCSIU22131 | @gmail.com |   tantran0708 |
+| 3     | Trần Ngọc Tân  | ITCSIU22131 | trantan0708.2004@gmail.com |   tantran0708 |
 | 4     | Hoàng Dương Gia Bảo | ITCSIU22017 | nguyenbao4567123@gmail.com | dewwinters |  
 
 ## Demo <a name="demo"></a>
@@ -27,6 +27,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 
 #### Play Screen 
 ![game start](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/22422ac3-6ad2-4fd5-ba66-2f7d90d1134f)
+
 ![game start 2](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/5467d13e-3692-4bcc-936a-fc8ae11e849b)
 
 #### Pause Screen 
