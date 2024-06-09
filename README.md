@@ -1,4 +1,8 @@
 # Tetris_OOP
+![GitHub last commit](https://img.shields.io/github/last-commit/ltdoan2004/Tetris_OOP)
+![GitHub issues](https://img.shields.io/github/issues/ltdoan2004/Tetris_OOP)
+![GitHub license](https://img.shields.io/github/license/ltdoan2004/Tetris_OOP)
+
 
 Members: 
 Lê Thiên Doanh : ITCSIU22237 
