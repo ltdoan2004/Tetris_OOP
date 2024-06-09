@@ -13,8 +13,10 @@ The Tetris Game is a new version of the classic video game, recreating the class
 
 # Contents :
 1. [Introduction](#introduction)
-2. [Demo](#demo)
-3. [PowerPoint and Report](#report)
+2. [UML Class Diagram](#uml)
+3. [Demo](#demo)
+4. [PowerPoint and Report](#report)
+5. [Installation](#installation)
 
 ## Introduction <a name="introduction"></a> :
 ### Members:
@@ -29,6 +31,8 @@ The Tetris Game is a new version of the classic video game, recreating the class
 Language:  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## UML Class Diagram <a name="uml"></a>
 
 ## Demo <a name="demo"></a> :
 
@@ -46,8 +50,19 @@ Language:
 #### Game Over Screen 
 ![gameover](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/e50d0514-fc9c-48d6-b56a-9506b06b0c34)
 
+### How to play :
+
+* Use the ⬅️|➡️ to move left and right  
+* Use the ⬆️ to rotate 90° clockwise
+* Use the ⬇️ to drop faster
+* Use Space to drop down 
+* Use C to hold the Piece
+* Use P to pause game
+* Use R to restart game
+
 ## PowerPoint and Report <a name="report"></a>
 ### PowerPoint
 ### Report
 
+## Installation <a name="installation"></a> 
 
