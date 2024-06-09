@@ -13,11 +13,12 @@ The Tetris Game is a new version of the classic video game, recreating the class
 
 # Contents :
 1. [Introduction](#introduction)
-2. [UML Class Diagram](#uml)
-3. [Demo](#demo)
-4. [PowerPoint and Report](#report)
-5. [How To Install ?](#installation)
-6. [References](#references)
+2. [Feature](#features)
+3. [UML Class Diagram](#uml)
+4. [Demo](#demo)
+5. [PowerPoint and Report](#report)
+6. [How To Install ?](#installation)
+7. [References](#references)
 
 ## Introduction <a name="introduction"></a> :
 ### Members:
@@ -32,6 +33,8 @@ The Tetris Game is a new version of the classic video game, recreating the class
 Language:  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Features <a name="features"></a>
 
 ## UML Class Diagram <a name="uml"></a>
 
