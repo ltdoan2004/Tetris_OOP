@@ -24,6 +24,10 @@ The Tetris Game is a new version of the classic video game, recreating the class
 | 3     | Trần Ngọc Tân  | ITCSIU22131 | trantan0708.2004@gmail.com |   tantran0708 |
 | 4     | Hoàng Dương Gia Bảo | ITCSIU22017 | nguyenbao4567123@gmail.com | dewwinters |  
 
+### Environment :
+Language:  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ## Demo <a name="demo"></a> :
 
 #### Start Screen
