@@ -9,7 +9,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 ## Object-Oriented Programming (Semester 2_2023-2024)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ltdoan2004/Tetris_OOP)
 ![GitHub issues](https://img.shields.io/github/issues/ltdoan2004/Tetris_OOP)
-![GitHub license](https://img.shields.io/github/license/ltdoan2004/Tetris_OOP)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green)](./LICENSE) 
 
 # Contents :
 1. [Introduction](#introduction)
@@ -26,6 +26,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 
 ### Environment :
 Language:  
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Demo <a name="demo"></a> :
