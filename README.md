@@ -14,7 +14,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 # Contents :
 1. [Introduction](#introduction)
 2. [Demo](#demo)
-3. [PowerPoint and Report](#PowerPoint and Report)
+3. [PowerPoint and Report](#PowerPointandReport)
 
 ## Introduction <a name="introduction"></a> :
 ### Members:
@@ -46,7 +46,7 @@ Language:
 #### Game Over Screen 
 ![gameover](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/e50d0514-fc9c-48d6-b56a-9506b06b0c34)
 
-## PowerPoint and Report <a name="PowerPoint and Report"></a>
+## PowerPoint and Report <a name="PowerPointandReport"></a>
 ### PowerPoint
 ### Report
 
