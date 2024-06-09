@@ -14,8 +14,8 @@ import java.awt.event.KeyEvent;
 
 public class EnterNameFrame extends JFrame {
     private final int TILE_SIZE = GamePanel.TILE_SIZE;
-    private final int WIDTH = 0;
-    private final int HEIGHT = TILE_SIZE * 2;
+    private final int WIDTH = 300;
+    private final int HEIGHT = TILE_SIZE * 7;
     private Color color = BaseColors.DARK_COLOR.getColor();
     private JTextField textField = new JTextField();
     private JLabel jlabel = new JLabel("Enter your name :");
