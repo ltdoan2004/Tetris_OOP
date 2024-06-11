@@ -16,7 +16,7 @@ import java.awt.event.KeyEvent;
 public class Start extends JFrame {
     private GameController gameController = GameController.getINSTANCE();
     private GamePanel gamePanel = GamePanel.getINSTANCE();
-    private RightPanel rightPanel = RightPanel.getINSTANCE();
+    private RightPanel rightPanel = RghtPanel.getINSTANCE();
     private LeftPanel leftPanel = LeftPanel.getINSTANCE();
     public static Sound music = new Sound();
 
