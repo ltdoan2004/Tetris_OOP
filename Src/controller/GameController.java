@@ -11,6 +11,8 @@ import java.io.*;
 
 public class GameController {
     private static final GameController INSTANCE = new GameController();
+//    public Sound music = new Sound();
+//    public Sound se = new Sound();
     private final int[] SCORES = {100, 300, 700, 1500};
     private final int gameSpeed = 500;
     private final int acceleration = 20;
@@ -48,8 +50,8 @@ public class GameController {
         score = 0;
         lines = 0;
         level = 1;
-
-
+//        music.play(0,true);
+//        music.loop();
     }
 
     public void start() {
@@ -653,4 +655,5 @@ public class GameController {
     public void setHighScores(Player[] highScores) {
         this.highScores = highScores;
     }
+
 }

@@ -6,6 +6,7 @@ import Src.controller.PaintController;
 import Src.view.GamePanel;
 import Src.view.LeftPanel;
 import Src.view.RightPanel;
+import controller.Sound;
 
 import javax.swing.*;
 import java.awt.*;
@@ -17,6 +18,7 @@ public class Start extends JFrame {
     private GamePanel gamePanel = GamePanel.getINSTANCE();
     private RightPanel rightPanel = RightPanel.getINSTANCE();
     private LeftPanel leftPanel = LeftPanel.getINSTANCE();
+    public static Sound music = new Sound();
 
 
     public Start() {
@@ -31,6 +33,7 @@ public class Start extends JFrame {
         setLocationRelativeTo(null);
 
         setVisible(true);
+        music.play(0,true);
 
         addKeyListener(new KeyAdapter() {
 
@@ -42,23 +45,27 @@ public class Start extends JFrame {
                         if (gameController.canMoveShape(Direction.LEFT, gameController.getCurrentShape()))
                             gameController.move(Direction.LEFT, gameController.getCurrentShape());
                         gamePanel.repaint();
+
                         break;
                     case KeyEvent.VK_RIGHT:
                         if (gameController.canMoveShape(Direction.RIGHT, gameController.getCurrentShape()))
                             gameController.move(Direction.RIGHT, gameController.getCurrentShape());
                         gamePanel.repaint();
+
                         break;
                     case KeyEvent.VK_DOWN:
                         if (gameController.canShapeStepDown(gameController.getCurrentShape())) {
                             gameController.stepDownShape(gameController.getCurrentShape());
                         }
                         gamePanel.repaint();
+
                         break;
                     case KeyEvent.VK_SPACE:
                         while (gameController.canShapeStepDown(gameController.getCurrentShape())) {
                             gameController.stepDownShape(gameController.getCurrentShape());
                             gamePanel.repaint();
                         }
+                        music.play(1,true);
                         break;
                     case KeyEvent.VK_UP:
                         gameController.rotate(gameController.getCurrentShape());
@@ -78,9 +85,11 @@ public class Start extends JFrame {
                             leftPanel.repaint();
                             rightPanel.repaint();
                             PaintController.getINSTANCE().setShowRecordNameInput(false);
+                            music.play(4,true);
                         }
                         break;
                     case KeyEvent.VK_ENTER:
+                        music.play(3,true);
                         if (!gameController.isGameRunning()) {
                             gameController.resetGame();
                             gameController.setGameRunning(true);

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sound Effect/Sound Effect.iml" filepath="$PROJECT_DIR$/Sound Effect/Sound Effect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sound_Effect/Sound Effect.iml" filepath="$PROJECT_DIR$/Sound_Effect/Sound Effect.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tetris_OOP.iml" filepath="$PROJECT_DIR$/.idea/Tetris_OOP.iml" />
     </modules>
   </component>
