@@ -4,8 +4,6 @@
 The Tetris Game is a new version of the classic video game, recreating the classic experience with modern graphics and additional features. In Tetris, the goal is to arrange various geometric blocks to form a complete row, making that row disappear and earning points.
 
 ### Video Gameplay :
-![Tetris Gameplay](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/696a0c1c-265f-42ea-bd89-48af0fd2cab0)
-
 https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/87ad3d25-c419-4250-9126-fa32e275e32a
 
 ## Object-Oriented Programming (Semester 2_2023-2024)
