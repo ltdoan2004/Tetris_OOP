@@ -83,6 +83,15 @@ Language:
 ## PowerPoint and Report <a name="report"></a>
 ### PowerPoint
 ### Report
+Support: Google docs
+Direct: [Link](https://docs.google.com/document/d/1xghJOUx4FENhV5LLOcFQV1AYw9kRl5c0_IquaiXjIRU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0r2VKrn22qF2n1PI-xd_mHWWWe0mnzRoscnLazG73285ikQ9lODYnSF4g_aem_ZmFrZWR1bW15MTZieXRlcw)
 
 ## References <a name="references"></a>
+1. Object-Oriented Programming (Dr. Tran Thanh Tung)
+2. Object-Oriented Programming (Dr. Nguyen Trung Nghia)
+3. How to Code Tetris in Java - RyiSnow. Available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=4897sJgt
+4. Chat.openai.com. Available at: https://chat.openai.com/
+5. Chat GPT. Available at: https://chatgpt.com
+6. Copilot. Available at: https://copilot.microsoft.com
+7. UML Design. Available at: IntelliJ IDEA
 
