@@ -95,8 +95,7 @@ Direct: [Link](https://docs.google.com/document/d/1xghJOUx4FENhV5LLOcFQV1AYw9kRl
 1. Object-Oriented Programming (Dr. Tran Thanh Tung)
 2. Object-Oriented Programming (Dr. Nguyen Trung Nghia)
 3. How to Code Tetris in Java - RyiSnow. Available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=4897sJgt
-4. Chat.openai.com. Available at: https://chat.openai.com/
-5. Chat GPT. Available at: https://chatgpt.com
-6. Copilot. Available at: https://copilot.microsoft.com
-7. UML Design. Available at: IntelliJ IDEA
+4. Chat GPT. Available at: https://chatgpt.com
+5. Copilot. Available at: https://copilot.microsoft.com
+6. UML Design. Available at: IntelliJ IDEA
 
