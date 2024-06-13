@@ -29,6 +29,14 @@ The Tetris Game is a new version of the classic video game, recreating the class
 | 3     | Trần Ngọc Tân  | ITCSIU22131 | trantan0708.2004@gmail.com |   tantran0708 |
 | 4     | Hoàng Dương Gia Bảo | ITCSIU22017 | nguyenbao4567123@gmail.com | dewwinters |  
 
+### Tasks and Contribution 
+| Index | Role                                                         | Person In Charge | Contribution |
+|:------|:-------------------------------------------------------------|:--------------:|:------------:|
+| 1     | Leader     |   Lê Thiên Doanh  |          25%      |
+| 2     | Member      |   Nguyễn Hoàng Bảo Khang    |          25%      |
+| 3     | Member  |  Trần Ngọc Tân    |      25%          |
+| 4     | Member |     Hoàng Dương Gia Bảo     |          25%      |  
+
 ### Environment :
 Language:  
 
