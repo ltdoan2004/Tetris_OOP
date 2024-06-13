@@ -17,8 +17,7 @@ The Tetris Game is a new version of the classic video game, recreating the class
 3. [UML Class Diagram](#uml)
 4. [Demo](#demo)
 5. [PowerPoint and Report](#report)
-6. [How To Install ?](#installation)
-7. [References](#references)
+6. [References](#references)
 
 ## Introduction <a name="introduction"></a> :
 ### Members:
@@ -43,6 +42,16 @@ Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Features <a name="features"></a>
+**Main Feature:**
+- Play, Restart, Pause
+- Generate piece
+- Playfield
+**Extra feature:**
+- Drop piece
+- Next piece
+- Scoreboard
+- User ranking
+- Sound
 
 ## UML Class Diagram <a name="uml"></a>
 
@@ -74,8 +83,6 @@ Language:
 ## PowerPoint and Report <a name="report"></a>
 ### PowerPoint
 ### Report
-
-## Installation <a name="installation"></a> 
 
 ## References <a name="references"></a>
 
