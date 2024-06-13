@@ -54,6 +54,7 @@ Language:
 - Sound
 
 ## UML Class Diagram <a name="uml"></a>
+![Tetris_OOP](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/f5f4d604-7496-4519-8652-82d82842e5ba)
 
 ## Demo <a name="demo"></a> :
 
@@ -82,6 +83,9 @@ Language:
 
 ## PowerPoint and Report <a name="report"></a>
 ### PowerPoint
+Support: Canva
+Direct: [Link](https://www.canva.com/design/DAGHJu_NM8E/qVYkYnAqmi0Qt21e085tIA/edit?fbclid=IwZXh0bgNhZW0CMTAAAR32I9i5MI3pMNWiuli3Ee3GbrBFmGOM_jWdz4CmnT5yhcTL-nuep01E7sk_aem_ZmFrZWR1bW15MTZieXRlcw)
+
 ### Report
 Support: Google docs
 Direct: [Link](https://docs.google.com/document/d/1xghJOUx4FENhV5LLOcFQV1AYw9kRl5c0_IquaiXjIRU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0r2VKrn22qF2n1PI-xd_mHWWWe0mnzRoscnLazG73285ikQ9lODYnSF4g_aem_ZmFrZWR1bW15MTZieXRlcw)
