@@ -4,6 +4,9 @@ import Src.controller.GameController;
 import Src.controller.PaintController;
 import Src.model.Player;
 import Src.model.Tile;
+import Src.view.GamePanel;
+import Src.view.BaseColors;
+import Src.view.BaseFonts;
 
 import javax.swing.*;
 import java.awt.*;

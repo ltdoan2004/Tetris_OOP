@@ -6,6 +6,7 @@ import Src.controller.PaintController;
 import Src.model.Player;
 import Src.view.BaseColors;
 import Src.view.GamePanel;
+import Src.view.new_record_dialog.JTextFieldLimit;
 
 import javax.swing.*;
 import java.awt.*;

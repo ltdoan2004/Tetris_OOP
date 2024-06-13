@@ -1,6 +1,9 @@
 package Src.view;
 
 import Src.controller.GameController;
+import Src.view.GamePanel;
+import Src.view.BaseColors;
+import Src.view.BaseFonts;
 
 import javax.swing.*;
 import java.awt.*;
