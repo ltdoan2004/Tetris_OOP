@@ -6,6 +6,8 @@ The Tetris Game is a new version of the classic video game, recreating the class
 ### Video Gameplay :
 ![Tetris Gameplay](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/696a0c1c-265f-42ea-bd89-48af0fd2cab0)
 
+https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/87ad3d25-c419-4250-9126-fa32e275e32a
+
 ## Object-Oriented Programming (Semester 2_2023-2024)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ltdoan2004/Tetris_OOP)
 ![GitHub issues](https://img.shields.io/github/issues/ltdoan2004/Tetris_OOP)
