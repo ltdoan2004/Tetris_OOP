@@ -54,6 +54,12 @@ Language:
 - User ranking
 - Sound
 
+**Salient features**
+- __Main contribution__: User Interface - Self-designed layout.
+- The game sound is fresh and catchy.
+- Press “__R__” to restart the new game. 
+- Press “__Space__": to make the blocks fall immediately.
+
 ## UML Class Diagram <a name="uml"></a>
 ![Tetris_OOP](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/f5f4d604-7496-4519-8652-82d82842e5ba)
 
